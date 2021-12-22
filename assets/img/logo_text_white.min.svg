@@ -1,7 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg data-name="Layer 1" viewBox="0 0 300 70" xmlns="http://www.w3.org/2000/svg">
- <title>Doubleboiler</title>
- <polygon points="0 0 300 0 300 70 0 70" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
- <polygon points="10 10 290 10 290 60 10 60" fill="#fff" fill-opacity="0" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
- <text transform="translate(0 12.5)" x="150" y="35" fill="#263238" font-family="Oswald" font-size="35" font-weight="bold" text-anchor="middle">DOUBLEBOILER </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 300 70"><title>Doubleboiler</title><polygon fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" points="0 0 300 0 300 70 0 70"/><polygon fill="#fff" fill-opacity="0" stroke="#263238" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="10 10 290 10 290 60 10 60"/><text x="150" y="35" fill="#263238" font-family="Oswald" font-size="35" font-weight="bold" text-anchor="middle" transform="translate(0 12.5)">DOUBLEBOILER</text></svg>
